@@ -1,0 +1,19 @@
+body{
+
+    background-size: cover;
+    background-position:center;
+}
+
+#input{
+
+    width: 30%;
+}
+
+canvas{
+
+    border: 3px solid red;
+    border-radius: 20px;
+    box-shadow: 4px 4px 5px grey;
+    margin-top: 55px;
+
+}
